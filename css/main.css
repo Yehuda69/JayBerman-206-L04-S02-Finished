@@ -1,10 +1,10 @@
 body {
-  background: cornflowerblue;
+  background: red;
 }
 /* ----------- For screens 768px and larger ----------- */
 @media () {
 	body {
-
+    
   }
 }
 
